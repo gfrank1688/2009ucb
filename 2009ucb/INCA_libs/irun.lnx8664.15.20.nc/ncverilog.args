@@ -1,0 +1,9 @@
+//
+// File created by:  ncverilog
+// Do not modify this file
+//
+testfixture.v
+FC.v
++define+tb1+FSDB
++access+r
++nc64bit
